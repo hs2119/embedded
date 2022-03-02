@@ -20,7 +20,7 @@ class Home extends Component {
             <div className="col-lg-6">
               <div className="banner-left">
                 <h1 className="text-capitalize">
-                  Welcome to Toilet.io!</h1>
+                  Welcome to IoTP!</h1>
                   <h4>Ready to save the planet one toilet roll at a time?</h4> 
                 <div className="buttons">
                   <Link

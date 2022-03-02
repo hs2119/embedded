@@ -12,7 +12,7 @@ class Navbar extends Component {
       <nav className="navbar navbar-expand-md navbar-dark fixed-top">
         <div className="container">
           <Link className="navbar-brand border-none" to={isAuthenticated ? "/dashboard" : "/"}>
-            Toilet.io
+            IoTP
           </Link>
           <button
             className="navbar-toggler d-lg-none"
